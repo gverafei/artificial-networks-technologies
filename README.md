@@ -11,6 +11,7 @@ Email: gvera@uv.mx
 ### Assignments
 
 + **Assignment 2**: Spreadsheet for training a neuron using the weight adjustment algorithm with the Delta rule and tanh activation.
-[Download](https://github.com/gverafei/artificial-networks-technologies/raw/refs/heads/main/Tarea2.xlsx).
+[Download](https://github.com/gverafei/artificial-networks-technologies/raw/refs/heads/main/tarea2/Tarea2.xlsx).
+[Code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea2/delta.ipynb).
 
 
