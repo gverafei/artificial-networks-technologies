@@ -14,4 +14,5 @@ Email: gvera@uv.mx
     + [Download spreadsheet](https://github.com/gverafei/artificial-networks-technologies/raw/refs/heads/main/tarea2/Tarea2.xlsx).
     + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea2/delta.ipynb).
 
-
++ **Assignment 3**: Code for training a neuron network using the weight adjustment algorithm with the Hebb and Delta rules.
+    + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea3/tarea3.ipynb).
