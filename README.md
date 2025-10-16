@@ -16,3 +16,6 @@ Email: gvera@uv.mx
 
 + **Assignment 3**: Code for training a neuron network using the weight adjustment algorithm with the Hebb and Delta rules.
     + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea3/tarea3.ipynb).
+
++ **Assignment 4**: Code for training a neuron network using the retropropagation.
+    + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea4/tarea4.ipynb).
