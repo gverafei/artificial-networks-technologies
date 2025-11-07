@@ -19,3 +19,6 @@ Email: gvera@uv.mx
 
 + **Assignment 4**: Code for training a neuron network using the retropropagation.
     + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea4/tarea4.ipynb).
+
++ **Assignment 5**: Code for training RNA with DataMining.
+    + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea5/tarea5.ipynb).
