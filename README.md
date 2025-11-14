@@ -24,6 +24,6 @@ Email: gvera@uv.mx
     + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea5/tarea5.ipynb).
 
 + **Assignment 5**: Code for training RNA with models comparation.
-    + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea5/tarea6_original.ipynb).
-    + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea5/tarea6_elu.ipynb).
-    + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea5/tarea6_gelu.ipynb).
+    + [Python code baseline Relu](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea5/tarea6_original.ipynb).
+    + [Python code ELU](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea5/tarea6_elu.ipynb).
+    + [Python code GELU](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea5/tarea6_gelu.ipynb).
