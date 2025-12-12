@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="universidad veracruzana, clases, licenciatura, desarrollo web" />
+  <meta name="description" content="Prácticas de la materia Desarrollo de Sistemas Web" />
+  <meta name="author" content="gvera@uv.mx" />
+  <title>Tarea 7 - Tecnologías para Redes Neuronales</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script defer src="js/menu.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+  <script defer src="js/model.js?v=1.12"></script>
+</head>
+
+<body>
+  <div class="container mt-4">
+    <h1 class="text-center h3">Tarea 7: Aplicación de CNN en Visión Artificial</h1>
+    <div class="text-center">
+      <p>Clasificación de imágenes (Perro o Gato) usando la cámara web utilizando Tensorflow.js</p>
+    </div>
+  </div>
+
+  <div class="container mt-2">
+    <div class="row">
+      <div class="col-12 col-md-4 offset-md-4 text-center">
+        <video id="video" playsinline autoplay style="width: 1px;"></video>
+        <button class="btn btn-primary mb-2" id="cambiar-camara" onclick="cambiarCamara();">Cambiar camara</button>
+        <canvas id="canvas" width="400" height="400" style="max-width: 100%;"></canvas>
+        <canvas id="otrocanvas" width="250" height="250" style="display: none"></canvas>
+        <div id="resultado" class="display-4">Cargando...</div>
+        <div id="descripcion" class="text-center">Cargando probabilidad...</div>
+        <div id="nota" class="text-center small">(>= 0.5 → Perro, < 0.5 → Gato)</div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
