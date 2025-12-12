@@ -16,6 +16,7 @@ Para este caso, se utiliza un modelo VGG-Net16 y ResNet50 preentrenados para cla
 
 + **Assignment 7**: Modelo que clasifica perros y gatos usando redes convolusionales.
     + [Código Python del modelo](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea7/model/tarea7.ipynb).
+    + [Datos de entrenamiento](https://github.com/gverafei/artificial-networks-technologies/tree/main/tarea7/model/cats_vs_dogs).
     + [Código HTML de la aplicación web](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea7/html/).
     + [Clasificador app](https://perrosygatos.azurewebsites.net/)
 
