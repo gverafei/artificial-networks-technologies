@@ -24,7 +24,9 @@ Para eso se puede usar cualquier servidor web. Aquí hay una forma de hacerlo co
 - Navegar hasta la carpeta donde se descargó el repositorio
 - Ejecuta rel comando `python -m http.server 8000`
 - Abrir un explorador y nevegar a http://localhost:8000
+
 En caso de tener PHP, los pasos son los mismos pero el comando es `php -S localhost:8000`.
+
 También se puede usar la extensión de VS Code llamada Live Server.
 
 ### Utilizarlo en un celular
