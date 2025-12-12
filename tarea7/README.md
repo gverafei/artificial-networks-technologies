@@ -15,12 +15,12 @@ Para este caso, se utilizara VGG-Net16 preentrenada para clasificar perros y gat
 ### Descripción
 
 + **Assignment 7**: Modelo que clasifica perros y gatos usando redes convolusionales.
-    + [HTML code](https://github.com/gverafei/artificial-networks-technologies/raw/refs/heads/main/tarea7/html/index.html).
-    + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea7/tarea7.ipynb).
+    + [HTML code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea7/html/tarea7.ipynb).
+    + [Python code](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea7/model/tarea7.ipynb).
     + [Application]()
 
 ### Authors
 
-**Guillermo Vera-Amaro**  
+**Guillermo Vera-Amaro**
 *Universidad Veracruzana*  
 Email: gvera@uv.mx
