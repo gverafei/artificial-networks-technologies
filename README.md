@@ -27,3 +27,9 @@ Email: gvera@uv.mx
     + [Python code baseline Relu](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea6/tarea6_original.ipynb).
     + [Python code ELU](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea6/tarea6_elu.ipynb).
     + [Python code GELU](https://github.com/gverafei/artificial-networks-technologies/blob/main/tarea6/tarea6_gelu.ipynb).
+
++ **Assignment 6**: Code for training RNA with Reluholdout and StratifiedKFold.
+    + [Python code](https://github.com/gverafei/artificial-networks-technologies/tree/main/tarea6).
+
++ **Assignment 7**: Code for training CNN for Computer Vision.
+    + [Python code](https://github.com/gverafei/artificial-networks-technologies/tree/main/tarea7).
